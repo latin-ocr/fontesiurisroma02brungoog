@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesiurisroma02brungoog_0012.png"; bbox 0 0 3330 5400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 555 677 857 816">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 555 677 857 816">
+     <span class='ocr_line' id='line_1_1' title="bbox 555 677 857 816; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 555 677 857 816; x_wconf 76' lang='lat' dir='ltr'>FONTES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 1131 1273 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 103 1051 1273 1347">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 1131 1273 1347; baseline -0.003 -31.075"><span class='ocrx_word' id='word_1_2' title='bbox 125 1136 392 1318; x_wconf 74' lang='lat' dir='ltr'><strong>fflffls</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 462 1131 815 1310; x_wconf 76' lang='lat' dir='ltr'>ROMANl</span> <span class='ocrx_word' id='word_1_4' title='bbox 892 1135 1273 1347; x_wconf 71' lang='lat' dir='ltr'><strong>ANTIQUI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 384 1985 1018 2071">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 384 1985 1018 2071">
+     <span class='ocr_line' id='line_1_3' title="bbox 384 1985 1018 2071; baseline 0.008 -5"><span class='ocrx_word' id='word_1_5' title='bbox 384 1985 585 2068; x_wconf 77' lang='lat' dir='ltr'><strong>CAROLUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 612 1985 833 2068; x_wconf 80' lang='lat' dir='ltr'>GEORGIUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 858 1988 1018 2071; x_wconf 81' lang='lat' dir='ltr'><strong>BRUNS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1670 5400">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1670 5400">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1670 5400; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1670 5400; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
